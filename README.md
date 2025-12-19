@@ -72,10 +72,10 @@ public class ErrorResponse {
 5. Error response DTO
 
 ## Verification
-- [ ] POST with invalid data returns 400
-- [ ] GET non-existent book returns 404
-- [ ] Checkout unavailable book returns 409
-- [ ] Valid operations return proper status codes
+- [x] POST with invalid data returns 400
+- [x] GET non-existent book returns 404
+- [x] Checkout unavailable book returns 409
+- [x] Valid operations return proper status codes
 
 ## Starter Code
 See `starter_code/` directory
